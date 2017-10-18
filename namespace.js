@@ -1,4 +1,4 @@
-var SANT0178{
+var SANT0178 = {
     
     init: function () {
         var div = document.createElement("div");
