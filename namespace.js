@@ -13,7 +13,6 @@ var SANT0178 = {
         function yes(ev) {
             this.style.backgroundColor = "salmon";
             this.style.borderColor = "yellow";
-            ev.currentTarget.style.borderRadius = 70%;
         }
 
         function mouseListen(ev) {
