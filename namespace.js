@@ -12,7 +12,7 @@ var SANT0178 = {
 
         function yes(ev) {
             this.style.backgroundColor = "salmon";
-            this.style.borderColor = "yellow";
+            this.style.borderColor = "green";
         }
 
         function mouseListen(ev) {
